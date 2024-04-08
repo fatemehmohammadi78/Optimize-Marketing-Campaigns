@@ -3,15 +3,6 @@
 ## Description
 This project focuses on analyzing marketing campaign data to identify factors impacting the amount collected from campaigns. It utilizes Python libraries such as Pandas, NumPy, Seaborn, and StatsModels for data analysis, visualization, and regression modeling.
 
-## Table of Contents
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Data Overview](#data-overview)
-4. [Analysis](#analysis)
-5. [Results](#results)
-6. [Conclusion](#conclusion)
-7. [Contributors](#contributors)
-8. [License](#license)
 
 ## Installation
 Make sure you have Python installed on your system. Additionally, install the required libraries using pip:
